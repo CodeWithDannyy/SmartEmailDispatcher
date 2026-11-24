@@ -4,9 +4,9 @@ CS3001 Computer Networks, Fall 2026, FAST-NUCES Karachi
 
 | Name | Roll No. | Part |
 |---|---|---|
-| Daanial Tejani | 24K-0671 | Half 1: authentication, SMTP configuration, secure connection, transmission, error handling |
-| Bazil Uddin Khan | 24K-0559 | Half 2: message construction, attachments, reply codes, integration |
-| Abdul Mannan | 23K-0829 | Half 2 |
+| Daanial Tejani | 24K-0671 | Part 1: secure connection (SSL/TLS, STARTTLS), sending, error handling |
+| Abdul Mannan | 23K-0829 | Part 2: SMTP configuration, login, settings, local test server |
+| Bazil Uddin Khan | 24K-0559 | Part 3: message construction, attachments, reply codes, compose UI |
 
 A PyQt5 desktop app that sends email directly over SMTP using Python's `smtplib`
 and `email` libraries. It shows the protocol at work: the window has a live
