@@ -12,8 +12,6 @@ A PyQt5 desktop app that sends email directly over SMTP using Python's `smtplib`
 and `email` libraries. It shows the protocol at work: the window has a live
 SMTP log of every command and server reply.
 
-> **Teammates: read `HANDOFF.md` first.** It lists what's done and what's left.
-
 ---
 
 ## How it works
