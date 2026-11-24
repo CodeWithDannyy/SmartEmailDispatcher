@@ -1,0 +1,5 @@
+PyQt5>=5.15
+
+aiosmtpd>=1.4
+cryptography>=41
+pytest>=7
